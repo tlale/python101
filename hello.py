@@ -47,3 +47,6 @@ print(f"product: {productName}")
 print(f"price: {unitPrice}")
 print(f"quantity:{quantity}")
 print(f"totalCost:{ unitPrice * quantity}") 
+
+# additional code 
+print("The world is a stage")
